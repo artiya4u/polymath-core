@@ -1,7 +1,7 @@
 {
   "name": "polymath-core",
   "version": "2.1.0",
-  "description": "Polymath Network Core Smart Contracts",
+  "description": "Artiya Network Core Smart Contracts",
   "main": "truffle.js",
   "directories": {
     "test": "test"
